@@ -1,5 +1,5 @@
 body{
-  background-image: linear(blue,lightyellow);
+  background:linear-gradient(blue,lightyellow);
 }
 h1{
   color: blue;
