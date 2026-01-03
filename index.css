@@ -1,6 +1,7 @@
 body{
-  background:linear-gradient(blue,lightyellow);
+  background:linear-gradient(135deg,lightblue,lightyellow);
 }
-h1{
+h4{
+  font-style:  italic;
   color: blue;
 }
