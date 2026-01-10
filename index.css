@@ -5,3 +5,9 @@ h4{
   font-style:  italic;
   color: blue;
 }
+#navbar{
+  height: 50px;
+  width: auto;
+  background-color: green;
+  
+}
